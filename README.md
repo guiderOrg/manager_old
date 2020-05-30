@@ -16,6 +16,7 @@ module.exports = {
 ```
 
 ### Install Python Dependencies
+It is recommended to use virtualenv.
 ```shell script
 $ pip3 install virtualenv
 ```
@@ -25,6 +26,7 @@ $ virtualenv venv
 ```shell script
 $ source ./venv/bin/activate
 ```
+If you don't want to use virtualenv, just run this command.
 ```sh
 $ pip3 install -r requirements.txt
 ```
