@@ -19,7 +19,7 @@
     "apexcharts": "^3.8.6",
     "babel-polyfill": "^6.26.0",
     "bootstrap-vue": "^2.0.0-rc.19",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "luxon": "^1.19.3",
     "register-service-worker": "^1.5.2",
     "vue": "^2.6.6",
